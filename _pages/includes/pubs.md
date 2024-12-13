@@ -1,6 +1,6 @@
 
 # 📝 Selected Publications 
-( <b>*</b> indicates equal contribution. Full list of  [<i class="fas fa-fw fa-graduation-cap"></i>publications](https://scholar.google.com/citations?hl=en&user=soDBSE8AAAAJ&view_op=list_works&sortby=pubdate))
+( <b>*</b> indicates equal contribution. )
 
 
 <style>

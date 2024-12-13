@@ -1,6 +1,6 @@
 
 # 📝 Selected Publications 
-( <b>*</b> indicates equal contribution. )
+( <b>*</b> indicates equal contribution.<sup>#</sup> indicates corresponding authorship. )
 
 
 <style>
@@ -37,8 +37,8 @@ Preprint.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/attack.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gradient Masking All-at-Once: Ensemble Everything Everywhere Is Not Robust](https://arxiv.org/abs/2411.14834) \\
-<span class="me">Jie Zhang</span>, Kristina Nikolić, Nicholas Carlini, Florian Tramèr. 
+[Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning] \\
+Zijian Gao<sup>*</sup>,<span class="me">Wangwang Jia</span><sup>*</sup>, Xingxing Zhang, Dulan Zhou, Kele Xu<sup>#</sup>, Feng Dawei, Yong Dou, Xinjun Mao, Huaimin Wang. 
 
 - We looked into "Ensemble Everything Everywhere", an adversarial examples defense that caused some excitement. Yet again, this serves as another example highlighting the importance of **rigorous evaluation**. 
 

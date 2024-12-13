@@ -39,10 +39,10 @@ Preprint.
 
 Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning \\
 Zijian Gao<sup>*</sup>,<span class="me">Wangwang Jia</span><sup>*</sup>, Xingxing Zhang, Dulan Zhou, Kele Xu<sup>#</sup>, Feng Dawei, Yong Dou, Xinjun Mao, Huaimin Wang. 
--->
 
 </div>
 </div>
+-->
 
 
 

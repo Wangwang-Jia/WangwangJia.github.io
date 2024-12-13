@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jie Zhang"
-description              : "PhD student at ETH Zurich. "
-repository               : "zj-jayzhang/zj-jayzhang.github.io"
+title                    : "Jia Wangwang"
+description              : "PhD student at Nudt. "
+repository               : "Wangwang-Jia/Pages"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,9 +21,9 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Jie Zhang"
+  name             : "Jia Wangwang"
   avatar           : "images/zj-x.jpeg"
-  bio              : #"ETH Zurich"
+  bio              : #"NUDT"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 

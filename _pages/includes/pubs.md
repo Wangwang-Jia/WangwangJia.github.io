@@ -45,32 +45,6 @@ Preprint.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/position.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Membership Inference Attacks Cannot Prove that a Model Was Trained On Your Data
-](https://arxiv.org/abs/2409.19798) \\
-<span class="me">Jie Zhang</span>, Debeshee Das,  Gautam Kamath, Florian Tramèr. 
-
-- We argue that MIA is fundamentally flawed for proving training data use.  We propose two solutions: using data extraction attacks or membership inference on specially crafted canary data for reliable training data proofs.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/blind_mia.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Blind Baselines Beat Membership Inference Attacks for Foundation Models
-](https://arxiv.org/abs/2406.16201) \\
-Debeshee Das, <span class="me">Jie Zhang</span>, Florian Tramèr. \[[code](https://github.com/ethz-spylab/Blind-MIA)\]
-
-- Unfortunately, we find that evaluations of MI attacks for foundation models are **flawed**, because
-they sample members and non-members from different distributions. We find 8 flawed MI evaluation
-datasets, existing evaluations thus tell us nothing about membership leakage of a foundation model’s training data.
-
-</div>
-</div>
 
 
 

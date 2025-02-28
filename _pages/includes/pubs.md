@@ -29,7 +29,7 @@
 
 
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025(CCF A)</div><img src='images/mis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025(CCF A)</div><img src='images/CVPR2025.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning] \\

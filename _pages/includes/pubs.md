@@ -1,6 +1,5 @@
 
 # 📝 Selected Publications 
-( <b>*</b> indicates equal contribution.<sup>#</sup> indicates corresponding authorship. )
 
 
 <style>

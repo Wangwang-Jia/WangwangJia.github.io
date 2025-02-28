@@ -9,7 +9,8 @@
 
 <div class="scrollable">
   <ul>
-    <li><strong>2024.07</strong>: 🎉 I graduate from CQU.</li>
+    <li><strong>2024.07</strong>: 🎉 I graduated from CQU!</li>
+    <li><strong>2025.02</strong>: 🎉 One paper is accepted by CVPR 2025!</li>
   </ul>
 </div>
 

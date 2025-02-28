@@ -28,18 +28,15 @@
 
 
 
-
-<blockquote style="font-size: 1em; color: blue; background-color: #f0f8ff; padding: 10px;">
-Preprint.
-</blockquote>
-<!-- Preprint -->
+(<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025(CCF A)</div><img src='images/mis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning \\
-Zijian Gao<sup>*</sup>,<span class="me">Wangwang Jia</span><sup>*</sup>, Xingxing Zhang, Dulan Zhou, Kele Xu<sup>#</sup>, Feng Dawei, Yong Dou, Xinjun Mao, Huaimin Wang. 
 
+[Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning] \\
+Zijian Gao<sup>*</sup>,<b>Wangwang Jia</b><sup>*</sup>, Xingxing Zhang, Dulan Zhou, Kele Xu<sup>#</sup>, Feng Dawei, Yong Dou, Xinjun Mao, Huaimin Wang. (<font color="#660000">CVPR 2025 (<b>CCF A</b>)
+</font>) 
 </div>
 </div>
-
 
 
 

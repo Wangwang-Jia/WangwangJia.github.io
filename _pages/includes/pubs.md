@@ -32,7 +32,7 @@
 <div class='paper-box-text' markdown="1">
 
 Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning \\
-Zijian Gao<sup>*</sup>,<b>Wangwang Jia</b><sup>*</sup>, Xingxing Zhang, Dulan Zhou, Kele Xu<sup>#</sup>, Feng Dawei, Yong Dou, Xinjun Mao, Huaimin Wang. (<font color="#660000">CVPR 2025 (<b>CCF A</b>)
+Zijian Gao<sup>*</sup>,<b>Wangwang Jia</b><sup>*</sup>, Xingxing Zhang, Dulan Zhou, Kele Xu<sup>#</sup>, Feng Dawei, Yong Dou, Xinjun Mao, Huaimin Wang. (<font color="#660000">CVPR 2025 (<b>CCF A</b>)<a href="https://github.com/Wangwang-Jia/Moal">code</a> 
 </font>) 
 </div>
 </div>
